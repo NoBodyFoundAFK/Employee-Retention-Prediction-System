@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.zip
+*.pptx
+*.docx
+*.csv
